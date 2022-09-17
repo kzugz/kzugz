@@ -1,3 +1,5 @@
+![forest](https://user-images.githubusercontent.com/113792269/190877593-bab82755-1188-4b6a-971f-79515f7caa93.png)
+
 ## 👑 Hi, I'm Gustavo Henrique!
 <div align="center">
   <a href="https://github.com/devGustah">
