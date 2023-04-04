@@ -4,7 +4,7 @@ Olá 👋 Eu sou Gustavo Henrique!
 Software Engineer
 --------------------
 
-Alguém que se encontrou profissionalmente enquanto escrevia seu primeiro "Hello World"! Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+Alguém que se encontrou profissionalmente enquanto escrevia seu primeiro "Hello World"! Viciado em Tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 * 🌍 Eu nasci e moro em Manaus
 * ✉️ Você pode contatar-me via [contact.kzugz@gmail.com](mailto:contact.kzugz@gmail.com)
