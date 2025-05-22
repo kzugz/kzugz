@@ -79,9 +79,6 @@ I'm currently studying **Systems Analysis and Development**, focusing on **back-
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://github.com/kzugz" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/gustavo-henrique-915636250" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
