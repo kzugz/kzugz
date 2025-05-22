@@ -12,8 +12,8 @@ Alguém que se encontrou profissionalmente enquanto escrevia seu primeiro "Hello
 
 <div align="center">
   <a href="https://github.com/kzugz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devGustah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGustah&layout=compact&langs_count=3&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kzugz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzugz&layout=compact&langs_count=3&theme=dark"/>
 </div>
   
 ### Skills  
