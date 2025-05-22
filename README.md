@@ -4,14 +4,14 @@ Olá 👋 Eu sou Gustavo Henrique!
 Software Engineer
 --------------------
 
-Alguém que se encontrou profissionalmente enquanto escrevia seu primeiro "Hello World"! Viciado em Tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+Alguém que se encontrou profissionalmente enquanto escrevia seu primeiro "Hello World"! Apaixonado em Tecnologia, atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 * 🌍 Eu nasci e moro em Manaus
 * ✉️ Você pode contatar-me via [contact.kzugz@gmail.com](mailto:contact.kzugz@gmail.com)
 * 🧠 Estou estudando sobre Java
 
 <div align="center">
-  <a href="https://github.com/devGustah">
+  <a href="https://github.com/kzugz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devGustah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGustah&layout=compact&langs_count=3&theme=dark"/>
 </div>
@@ -148,7 +148,7 @@ Alguém que se encontrou profissionalmente enquanto escrevia seu primeiro "Hello
   
 ### Badges
 
-<a href="http://www.github.com/devGustah">
+<a href="http://www.github.com/kzugz">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devGustah&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>  
   
@@ -162,6 +162,6 @@ Alguém que se encontrou profissionalmente enquanto escrevia seu primeiro "Hello
  <a href="https://discord.gg/GcR9DEzHha" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:contact.kzugz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devGustah/devGustah/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/kzugz/kzugz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
