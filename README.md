@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Pixelated animated banner" width="600" />
+  <img src="assets/Banner GitHub.png" alt="Banner"/>
 </p>
 
 # 👋 Gustavo Henrique
