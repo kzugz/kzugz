@@ -70,7 +70,6 @@ I'm currently studying **Systems Analysis and Development**, focusing on **back-
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=kzugz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzugz&layout=compact&langs_count=6&theme=dark"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kzugz&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></td>
   </tr>
 </table>
 
